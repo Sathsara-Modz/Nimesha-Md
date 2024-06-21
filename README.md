@@ -64,7 +64,7 @@
 
 ## DEPLOYMENT METHODS
 
-[CLICK TO SELECT DEPLOY PLATFORM](https://vajiratech.github.io/VAJIRA-DEPLOY/QUEEN-IZUMI-WEB-main/projects/deployment.html)
+[CLICK TO SELECT DEPLOY PLATFORM](https://github.com/Sathsara-Modz/Nimesha-Md)
 
 <hr>
 

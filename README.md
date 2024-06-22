@@ -64,7 +64,7 @@
 
 ## DEPLOYMENT METHODS
 
-[CLICK TO SELECT DEPLOY PLATFORM](https://heroku.com/deploy?template=https://github.com/Sathsara-Modz/Nimesha-Md)
+[CLICK TO SELECT DEPLOY PLATFORM](https://heroku.com/deploy?template=https://github.com/sathsara-technic/nimesha-md)
 
 <hr>
 
